@@ -1,0 +1,14 @@
+29193b742a0053e4e3d45d4cc853caca *DESCRIPTION
+08ff8eb345a8ac0ab4d346d3190ce5ee *NAMESPACE
+41f8daf99fc5d954abf828ec3fc8510f *R/KnockoffHybrid.R
+f3bd79a4efeaf1f6dc2bca3b7c6cd2e1 *R/calculate_weight.R
+c078badb3f71dec4a2f33f898b58353d *R/causal_loci.R
+7d7bab0d7c154f7373a98dc195d2dc91 *R/create_knockoff.R
+b3501fecdcb5acf28b52ac98a2a0e45c *R/data.R
+baf7b3cc4072a61902b03d734474b02d *README.md
+2f89adac5beb76b4cc7de1318e4c9a39 *data/KnockoffHybrid.example.rda
+47fa9a0973e5f9eb0434431dadfef966 *man/KnockoffHybrid.Rd
+3d8863c983c598fe195bd818ad741060 *man/KnockoffHybrid.example.Rd
+0e1ae87d1dc3a74c6f8d67dfc28a36c3 *man/calculate_weight.Rd
+02cea12128c1e1946838ef9984e9e231 *man/causal_loci.Rd
+0563b5c72476667fa77e06e917e7f9b1 *man/create_knockoff.Rd
